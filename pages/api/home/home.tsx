@@ -360,7 +360,8 @@ const Home = ({
       }}
     >
       <Head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4107047521962048" crossOrigin="anonymous"></script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8570207921580505"
+          crossOrigin="anonymous"></script>
         <title>Chatgpt</title>
         <meta name="description" content="ChatGPT but better." />
         <meta
